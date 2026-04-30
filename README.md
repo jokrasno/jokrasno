@@ -43,8 +43,6 @@ Finding myself loving the new surge in 3DGS research as well.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jokrasno&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jokrasno&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff" alt="Activity Graph" width="100%"/>
-
 ---
 
 ### 📫 Let's Connect
