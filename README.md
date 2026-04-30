@@ -1,22 +1,23 @@
 <div align="center">
 
-# 👋 Hey, I'm a CS Student at the University of Portland!
+# 👋 Hey! I'm a CS Student at the University of Portland!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+%7C+Class+of+2026;GPA%3A+3.98+%F0%9F%93%9A;Building+cool+stuff+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+%7C+Class+of+2027;GPA%3A+3.98;We+do+a+little+larping" alt="Typing SVG" />
 
 ---
 
-### 🎓 About Me
+### About Me
 
-**University of Portland** · B.S. Computer Science · GPA **3.98**
+**University of Portland** · B.S. Computer Science
 
 I'm passionate about software engineering, problem solving, and pushing code to its limits.
 When I'm not in class you'll find me hacking on side projects, exploring new tools, and
-leveraging AI to build faster and smarter.
+leveraging AI to build faster and smarter. I do my best to not be stupid, but it 
+inevitably happens.
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -28,15 +29,14 @@ leveraging AI to build faster and smarter.
 
 ---
 
-### 🤖 AI-Powered Development
+### What I Currently Like
 
-I'm a big fan of **ChatGPT Codex** — using AI to accelerate development, automate the tedious
-stuff, and explore ideas I wouldn't have thought of on my own. The future of coding is
-human + AI, and I'm here for it.
+I'm a big fan of **Codex**; recent models by OAI speak for themselves. 
+Finding myself loving the new surge in 3DGS research as well.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jokrasno&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
@@ -54,7 +54,7 @@ human + AI, and I'm here for it.
 
 ---
 
-> *"You can outsource your thinking, but not your understanding."*
+*"You can outsource your thinking, but not your understanding."*
 
 <img src="https://komarev.com/ghpvc/?username=jokrasno&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 
