@@ -2,7 +2,7 @@
 
 # 👋 Hey! I'm a CS Student at the University of Portland!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+%7C+Class+of+2027;GPA%3A+3.98;We+do+a+little+larping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+%7C+Class+of+2027;GPA%3A+3.99;We+do+a+little+larping" alt="Typing SVG" />
 
 ---
 
